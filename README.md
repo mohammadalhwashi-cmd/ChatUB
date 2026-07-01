@@ -128,7 +128,7 @@ No license file is currently present. All rights are reserved by default unless 
 
 ## Author
 
-Abdulelah Alkhathami
+Mohammed Alhwashi
 
 ## Contact
 
