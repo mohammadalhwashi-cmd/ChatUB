@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/project-banner.svg" alt="ChatUB project banner" />
+<img width="1872" height="972" alt="image" src="https://github.com/user-attachments/assets/901f9978-533d-4e91-97e7-6beb72efd95e" />
+
 </p>
 
 # ChatUB - Local AI Academic Assistant
