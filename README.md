@@ -80,7 +80,7 @@ curl -X POST http://127.0.0.1:5000/ask \
 
 ## Screenshots
 
-![ChatUB chat interface](assets/screenshots/chatub-home.jpg)
+![ChatUB chat interface](assets/screenshots/chatub-home.jpeg)
 
 Captured from the committed static chat interface. Add a grounded answer flow after the local model and FAQ evaluation set are ready.
 
