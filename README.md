@@ -1,5 +1,6 @@
 <p align="center">
-<img src="ub-logo.gif" alt="ChatUB Animated Logo" align="center" />
+<img width="897" height="37" alt="image" src="https://github.com/user-attachments/assets/618686b8-7bfe-4f59-9178-bfb9e33614da" />
+
 </p>
 
 # ChatUB - Local AI Academic Assistant
