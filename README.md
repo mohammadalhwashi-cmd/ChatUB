@@ -132,4 +132,4 @@ Mohammed Alhwashi
 
 ## Contact
 
-- GitHub: [mohammed]((https://github.com/mohammadalhwashi-cmd))
+- GitHub:  [Mohammed Alhwashi](https://github.com/mohammadalhwashi-cmd))
