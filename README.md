@@ -132,5 +132,4 @@ Abdulelah Alkhathami
 
 ## Contact
 
-- Website: [abdulelah.de](https://www.abdulelah.de)
-- GitHub: [Abdulel3h](https://github.com/Abdulel3h)
+- GitHub: [mohammed]([https://github.com/Abdulel3h](https://github.com/mohammadalhwashi-cmd))
